@@ -27,7 +27,9 @@ footer p {
 
 .top_back {
     border: 2px solid rgb(43, 43, 43);
-    background-color: rgb(43, 43, 43);
+    background-image: url("../Header.png");
+    height: 150px;
+    width: auto;
     color: white;
     text-align: center;
 }
