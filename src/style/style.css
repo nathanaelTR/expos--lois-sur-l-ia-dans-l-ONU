@@ -45,8 +45,7 @@ footer p {
     
     font-size: 15px;
 
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    font-family: "LT_Glockenspiel_Black";
 
 }
 
@@ -182,4 +181,18 @@ footer p {
     color: white;
     padding: 10px;
     margin-top: 10px;
+}
+
+#Titre{
+    font-family: "LT_Glockenspiel_Black";
+    text-decoration-line: underline;
+    text-shadow: 2px 2px #499ce9;
+    font-size: 200%;
+}
+
+@font-face{
+    font-family: "LT_Glockenspiel_Black";
+    src: 
+        local("LT_Glockenspiel_Black"),
+        url("../LT_Glockenspiel_Black.ttf") format("truetype");
 }
